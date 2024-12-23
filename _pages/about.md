@@ -42,6 +42,6 @@ redirect_from:
 
 <center>
 <div style="width: 300px; height: 200px; overflow: hidden;">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sNab61BCqqN7iSZD6CWpN4qtAnpG4NGD1sq4VmUEeDY&cl=ffffff&w=a"></script>
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Gz1j2vKggXc1-o601Nubl8KmvHSYgs-fkHdc54GH88g&cl=ffffff&w=a"></script>
 </div>
 </center>
