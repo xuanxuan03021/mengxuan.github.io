@@ -13,7 +13,7 @@ author_profile: true
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> AAAI Conference on Artificial Intelligence (**AAAI 2025**) </span>
 
 2. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Evaluating accuracy and reproducibility of large language model performance on critical care assessments in pharmacy education  </span> <br>
-<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Huibo Yang , Mengxuan Hu , Amoreena Most , Brian Murray , Susan Smith , Anthony Hawkins , Sheng Li and Andrea Sikora *</span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Huibo Yang , Mengxuan Hu , Amoreena Most , Brian Murray , Susan Smith , Anthony Hawkins , Sheng Li and Andrea Sikora </span> <br>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Frontiers in Artificial Intelligence, section Medicine and Public Health </span>
 
 
