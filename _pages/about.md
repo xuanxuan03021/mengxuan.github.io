@@ -39,7 +39,7 @@ redirect_from:
 - <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">Deadlift: 60kg</span>
 - <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">Sqaut: 60kg</span>
 
-This is my cat "Zhu Mi" (猪咪🐖)
+### This is my lovely cat "Zhu Mi" (猪咪🐖)
 
 <img src="/home/qtq7su/guanzihan.github.io-1/images/zhumi_1.jpg" alt="Cat Image 1" style="width:300px;">
 <img src="/home/qtq7su/guanzihan.github.io-1/images/zhumi_2.jpg" alt="Cat Image 2" style="width:300px;">
