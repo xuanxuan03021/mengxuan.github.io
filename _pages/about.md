@@ -41,10 +41,10 @@ redirect_from:
 
 ### This is my lovely cat "Zhu Mi" (猪咪🐖)
 
-<img src="/home/qtq7su/guanzihan.github.io-1/images/zhumi_1.jpg" alt="Cat Image 1" style="width:300px;">
-<img src="/home/qtq7su/guanzihan.github.io-1/images/zhumi_2.jpg" alt="Cat Image 2" style="width:300px;">
-<img src="/home/qtq7su/guanzihan.github.io-1/images/zhumi_3.jpg" alt="Cat Image 3" style="width:300px;">
-<img src="/home/qtq7su/guanzihan.github.io-1/images/zhumi_4.jpg" alt="Cat Image 4" style="width:300px;">
+<img src="/images/zhumi_1.jpg" alt="Cat Image 1" style="width:300px;">
+<img src="/images/zhumi_2.jpg" alt="Cat Image 2" style="width:300px;">
+<img src="/images/zhumi_3.jpg" alt="Cat Image 3" style="width:300px;">
+<img src="/images/zhumi_4.jpg" alt="Cat Image 4" style="width:300px;">
 
 
 
