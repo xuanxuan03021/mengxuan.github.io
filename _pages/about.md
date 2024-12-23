@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## 🧑‍💻 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">Biography</span>
-<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> I am a third year Ph.D. student at [University of Virginia](https://www.virginia.edu/), supervised by Prof. [Sheng Li](https://sheng-li.org/). Prior to that, I obtained my master degree at [Imperial College London](https://www.imperial.ac.uk/), where I worked with Dr. [Sam Greenbury](https://www.turing.ac.uk/people/research-engineering/sam-greenbury) and Prof. [Alessio](https://www.imperial.ac.uk/people/a.lomuscio) and Dr. [Elsa Angelini](https://profiles.imperial.ac.uk/e.angelini), and I obtained my bachelor degree at [Dalian University of Technology](http://en.dlut.edu.cn/) </span>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> I am a third year Ph.D. student at [University of Virginia](https://www.virginia.edu/), supervised by Prof. [Sheng Li](https://sheng-li.org/). Prior to that, I obtained my master degree at [Imperial College London](https://www.imperial.ac.uk/), where I worked with Dr. [Sam Greenbury](https://www.turing.ac.uk/people/research-engineering/sam-greenbury) and Prof. [Elsa Angelini](https://profiles.imperial.ac.uk/e.angelini), and I obtained my bachelor degree at [Dalian University of Technology](http://en.dlut.edu.cn/) </span>
 
 
 ## 📚 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">Research Interests</span>
