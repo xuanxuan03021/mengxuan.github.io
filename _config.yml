@@ -13,7 +13,7 @@ name                     : &name "Mengxuan Hu"
 description              : &description "mengxuan's personal description"
 url                      : https://xuanxuan03021.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xuanxuan03021/mengxuan.github.io"
+repository               : "xuanxuan03021"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
