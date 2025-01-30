@@ -16,6 +16,10 @@ author_profile: true
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Huibo Yang , Mengxuan Hu , Amoreena Most , Brian Murray , Susan Smith , Anthony Hawkins , Sheng Li and Andrea Sikora </span> <br>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Frontiers in Artificial Intelligence, section Medicine and Public Health </span>
 
+3. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Mind Control through Causal Inference: Predicting Clean Images from Poisoned Data  </span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Mengxuan Hu*, Zihan Guan*, Yi Zeng, Junfeng Guo, Zhongliang Zhou, Jielu Zhang, Ruoxi Jia, Anil Kumar Vullikanti, Sheng Li </span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> International Conference on Learning Representations (**ICLR 2025**) </span>
+
 
 ### <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">2024 </span>
 1. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> BBCaL: Black-box Backdoor Detection under the Causality Lens [\[PDF\]](https://openreview.net/forum?id=HZi9PfLwMn) [\[Code\]](https://github.com/GuanZihan/BBCaL) </span> <br>
